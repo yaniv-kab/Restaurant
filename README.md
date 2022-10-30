@@ -1,3 +1,14 @@
+# Restaurant Clone - Gericht
+## Live Preview - https://gericht-restaurant-clone.netlify.app/
+
+<br />
+
+![image](https://user-images.githubusercontent.com/88501456/198868294-6ecfbdbc-5be7-4d48-9680-e2c1def19189.png)
+![image](https://user-images.githubusercontent.com/88501456/198868304-99d27ca7-5676-4589-bd9a-d7f3b1a39612.png)
+![image](https://user-images.githubusercontent.com/88501456/198868359-1f726f55-36de-4923-8990-f54398c29efe.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
